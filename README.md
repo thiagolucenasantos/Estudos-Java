@@ -1,2 +1,2 @@
 # Estudos-Java
-Reposiorio com conteudo de Java, do básico até o avançado
+Repositorio com conteudo de Java, do básico até o avançado
